@@ -1,5 +1,13 @@
 # LinkedTrust Development Handoff Summary
 
+## NEXT STEPS
+
+* fix the search (totally broken, sorry)
+* test the credential import and publishing, there should be a magic link flow if the draft prs are completed see the main readme in this repo
+if any changes remember to discuss them with http://hub.cooperation.org/p/linkedtrust-core-development/
+* try to use it for real for publishing credentials to it and then to linkedin
+* try to issue team-issued credentials to people and send to them
+
 ## Recent Development Overview
 
 This document summarizes the recent major development work on the LinkedTrust platform, focusing on the API migration, frontend updates, and graph visualization improvements completed in May 2025.
